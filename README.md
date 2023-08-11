@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Jorge Sanchez
 - 👀 Interested learn the most important! web development
-- 👨🏼‍🎓 Skills - HTML, CSS, UX, UI, SKETCHAPP, ILLUSTRATOR, GIT & GITHUB
-- 🌱 I’m currently learning javascript
+- 👨🏼‍🎓 Skills - HTML, CSS, BOOTSTRAP, UX, UI, SKETCHAPP, ILLUSTRATOR, GIT & GITHUB
+- 🌱 I’m currently learning javascript and Microsoft SQL Server
 - 🤝 I’m looking to collaborate on everything about web development
 - 📫 How to reach fcojsanchez55@gmail.com / instagram - sanchezetto
 
