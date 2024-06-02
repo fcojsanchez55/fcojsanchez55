@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **https://www.instagram.com/sanchezetto/**
 
-- 📄 Know about my experiences [looking for colaborate with other](looking for colaborate with other)
-
 - ⚡ Fun fact **Many people are attractive until you see how they think.**
 
 <h3 align="left">Connect with me:</h3>
