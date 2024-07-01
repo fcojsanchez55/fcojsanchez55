@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Php and some frameworks**
 
-- 👨‍💻 All of my projects are available at [[https://www.frontendmentor.io/profile/fcojsanchez55](https://app.netlify.com/teams/fcojsanchez55/overview)]([https://www.frontendmentor.io/profile/fcojsanchez55](https://app.netlify.com/teams/fcojsanchez55/overview))
+- 👨‍💻 All of my projects are available at [[https://www.frontendmentor.io/profile/fcojsanchez55](https://app.netlify.com/teams/fcojsanchez55/overview)]
 
 - 💬 Ask me about **Html, Css, UX & UI, Bootstrap, tailwind, Javascript, Github, Php and Mysql**
 
